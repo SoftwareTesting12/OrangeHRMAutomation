@@ -63,6 +63,7 @@ public class TestClassTNG2 {
 	public void afterSuite()
 	{
 		System.out.println("afterSuite of class2 ");
+		System.out.println("just for git test");
 	}
 	
 
