@@ -39,6 +39,7 @@ public class TestClassTNG {
 	public void afterClass()
 	{
 		System.out.println("afterClass1");
+		System.out.println("git");
 	}
 
 }

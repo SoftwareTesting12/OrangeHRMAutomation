@@ -7,8 +7,8 @@
       <class name="testPackage.LoginTestClass">
         <methods>
           <include name="beforeClass"/>
-          <include name="afterTest"/>
           <include name="VerifyLoginFunctionalityWithIncorrectData"/>
+          <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
         </methods>
